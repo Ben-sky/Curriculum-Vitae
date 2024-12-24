@@ -1,1 +1,3 @@
-Veuillez trouver ci-joint mon CV.
+Veuillez trouver ci-jointe ma lettre de motivation.
+
+etc.....
